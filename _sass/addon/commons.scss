@@ -703,9 +703,6 @@ $sidebar-display: "sidebar-display";
   width: $sidebar-width;
   z-index: 99;
   background: var(--sidebar-bg);
-  background: url("/assets/img/back.jpg");
-  background-size: 100% 100%;
-  background-position: center;
 
   /* Hide scrollbar for Chrome, Safari and Opera */
   &::-webkit-scrollbar {
@@ -915,9 +912,6 @@ $sidebar-display: "sidebar-display";
 
 @media (hover: hover) {
   #sidebar ul > li:last-child::after {
-    -webkit-transition: top 0.5s ease;
-    -moz-transition: top 0.5s ease;
-    -o-transition: top 0.5s ease;
     transition: top 0.5s ease;
   }
 }
