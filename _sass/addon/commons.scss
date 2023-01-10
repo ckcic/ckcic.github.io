@@ -702,6 +702,9 @@ $sidebar-display: "sidebar-display";
   overflow-y: auto;
   width: $sidebar-width;
   z-index: 99;
+  /*
+  background: var(--sidebar-bg);
+  */
   background: url("/assets/img/back.jpg");
   background-size: 100% 100%;
   background-position: center;
@@ -797,7 +800,10 @@ $sidebar-display: "sidebar-display";
 
     &.active {
       .nav-link {
+/*`
         color: var(--sidebar-active-color);
+*/
+        color: rgba(255, 255, 255, 100%);
       }
     }
 
