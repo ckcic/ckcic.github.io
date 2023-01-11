@@ -1,6 +1,6 @@
 ---
 title: 일본어 문법2
-date: 2023-01-10 15:30:01 +0900
+date: 2023-01-11 15:06:01 +0900
 categories: [Study, Japanese]
 tags: [Japanese, 일본어, 日本語]
 pin: true
