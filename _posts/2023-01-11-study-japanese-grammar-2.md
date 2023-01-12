@@ -7,7 +7,7 @@ pin: true
 ---
 ## [わけ・はず의 용법] <br>
 
-### 1. わけ：① 이유, 원인 까닭 / ② 뜻, 의미, 영문<br>
+### 1. わけ：① 이유, 원인 까닭 / ② 뜻, 의미, 영문 <br>
 > 예) <U><strong>わけ</strong></U>のなく<ruby>子供<rp>(</rp><rt>こども</rt><rp>)</rp></ruby>を<ruby>叱<rp>(</rp><rt>しか</rt><rp>)</rp></ruby>るのはよくない。<br>
 >><U><strong><ruby>訳<rp>(</rp><rt>わけ</rt><rp>)</rp></ruby></strong></U>の<ruby>分<rp>(</rp><rt>わ</rt><rp>)</rp></ruby>からないことばかり<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>わないで、はっきり<ruby>要点<rp>(</rp><rt>ようてん</rt><rp>)</rp></ruby>だけ<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>ってください。
 
