@@ -7,7 +7,7 @@ pin: true
 ---
 ## [もの의 용법] <br>
 
-### 1. のどだ：① ~법이다 (상식・진리・본성・습성) / ② 과거회상 (た+) / ③ ~하구나, ~이구나 (감정의 강조) <br>
+### 1. ものだ：① ~법이다 (상식・진리・본성・습성) / ② 과거회상 (た+) / ③ ~하구나, ~이구나 (감정의 강조) <br>
 > 예) <ruby>真心<rp>(</rp><rt>まごころ</rt><rp>)</rp></ruby>で<ruby>接<rp>(</rp><rt>せっ</rt><rp>)</rp></ruby>すれば、<ruby>誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>とでも<ruby>心<rp>(</rp><rt>こころ</rt><rp>)</rp></ruby>が<ruby>通<rp>(</rp><rt>つう</rt><rp>)</rp></ruby>じる<U><strong>ものだ</strong></U>。<br>
 >> <ruby>子供<rp>(</rp><rt>こども</rt><rp>)</rp></ruby>の<ruby>頃<rp>(</rp><rt>ころ</rt><rp>)</rp></ruby>は、ここでよく<ruby>遊<rp>(</rp><rt>あそ</rt><rp>)</rp></ruby>んだ<U><strong>ものだ</strong></U>。<br>
 <ruby>温泉<rp>(</rp><rt>おんせん</rt><rp>)</rp></ruby>は、<ruby>何度<rp>(</rp><rt>なんど</rt><rp>)</rp></ruby><ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>てもいい<U><strong>ものです</strong></U>ね。(~たいものだ)
